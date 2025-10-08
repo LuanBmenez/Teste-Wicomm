@@ -1,4 +1,4 @@
-import paw from "../assets/Extras/paw.png";
+
 import prize from "../assets/Extras/prize.png";
 import React from "react";
 import styled from "styled-components";
