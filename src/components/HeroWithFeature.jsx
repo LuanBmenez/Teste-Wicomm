@@ -260,15 +260,15 @@ export function HeroWithFeature() {
               <BoxDownClipped>
                 <DownTextShift>Benefício Terciário</DownTextShift>
                 <Dot>
-                  <img src={paw} alt="" />
+                  <img src="/Extras/paw.png" alt="Pata" />
                 </Dot>
                 <DownTextShift>Benefício Terciário</DownTextShift>
                 <Dot>
-                  <img src={paw} alt="" />
+                  <img src="/Extras/paw.png" alt="Pata" />
                 </Dot>
                 <DownTextShift>Lisan Al Gaib</DownTextShift>
                 <Dot>
-                  <img src={paw} alt="" />
+                  <img src="/Extras/paw.png" alt="Pata" />
                 </Dot>
                 <DownTextShift>Benefício Terciário</DownTextShift>
               </BoxDownClipped>
