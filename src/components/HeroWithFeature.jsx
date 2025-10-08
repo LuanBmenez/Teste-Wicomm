@@ -30,7 +30,6 @@ const FeatureInner = styled.div`
   height: 238px;
   background: #de5a53;
   box-sizing: border-box;
-  border-radius: 4px;
   display: flex;
   flex-direction: column;
   justify-content: center;
