@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import GatIcon from "../assets/Extras/GatIcon.png";
-import GatTitle from "../assets/Extras/Gat.png";
-import menu_01 from "../assets/Extras/menu_01.png";
-import Conta from "../assets/Extras/cart.png";
-import Cart from "../assets/Extras/conta.png";
+import GatIcon from "../Assets/Extras/GatIcon.png";
+import GatTitle from "../Assets/Extras/Gat.png";
+import menu_01 from "../Assets/Extras/menu_01.png";
+import Conta from "../Assets/Extras/cart.png";
+import Cart from "../Assets/Extras/conta.png";
 
 const NavBar = styled.nav`
   position: absolute;

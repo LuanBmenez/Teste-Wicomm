@@ -1,5 +1,5 @@
 
-import prize from "../assets/Extras/prize.png";
+import prize from "../Assets/Extras/prize.png";
 import React from "react";
 import styled from "styled-components";
 import Hero from "./Hero";
