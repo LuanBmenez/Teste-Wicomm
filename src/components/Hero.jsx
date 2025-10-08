@@ -1,8 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import banerTopCentral from "../assets/baner_TopCentral.png";
-import banerTopEsquerda from "../assets/baner_TopEsquerda.png";
-import banerTopDireita from "../assets/baner_TopDireita.png";
 import Nav from "./Nav";
 
 const HeroWrap = styled.section`
