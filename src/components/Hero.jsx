@@ -50,15 +50,13 @@ const RightImage = styled.img`
   transition: transform 0.35s ease;
 `;
 
-
-
 export default function Hero() {
   return (
     <HeroWrap>
       <Nav />
-      <LeftImage src={banerTopEsquerda} alt="Produto à esquerda" />
-      <MainImage src={banerTopCentral} alt="Produto central" />
-      <RightImage src={banerTopDireita} alt="Produto à direita" />
+      <LeftImage src="/baner_TopEsquerda.png" alt="Produto à esquerda" />
+      <MainImage src="/baner_TopCentral.png" alt="Produto central" />
+      <RightImage src="/baner_TopDireita.png" alt="Produto à direita" />
     </HeroWrap>
   );
 }
